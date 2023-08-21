@@ -1,19 +1,17 @@
 ### Hi there 👋 ✨I’m Osleidy Quiala✨
 
-• 😄 Pronouns: "she" | "her"
-• 🤓 Software Engineer - University of Computer Sciences, Havana, Cuba
-• 💻 Web developer - Montecable, Montevideo
-• ⌨️ Code - C#, PHP, HTML, CSS, JavaScript, TypeScript, SQL
+• 😄 Pronouns: "she" | "her" <br>
+• 👩‍💻 Software Engineer - University of Computer Sciences, Havana <br>
+• 💻 Web Developer - Montecable, Montevideo <br>
+• ⌨️ Code - C#, PHP, HTML, CSS, JavaScript, TypeScript, SQL <br>
 • 🛠️ Tools - Angular, Bootstrap, .Net, Symfony, Ext.js, PostgreSQL, SQL Server
 
-🤝 I love collaborating with different people !!!
+🤝 <i>I love collaborating with different people !!!</i>
 
 
 <!--
 **oquiala/oquiala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
